@@ -1,0 +1,17 @@
+[project]
+name = "temp-converter"
+version = "0.0.1"
+authors = [
+  { name="kjgpta", email="kjgpta@example.com" },
+]
+description = "Basic package for converting temperature units from fahrenheit to kelvin"
+readme = "README.md"
+requires-python = ">=3"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/kjgpta/temp-converter"
